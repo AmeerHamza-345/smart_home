@@ -1,4 +1,4 @@
-poetry add streamlit
-poetry add SpeechRecognition
-poetry add pyaudio
-poetry add emoji
+streamlit
+SpeechRecognition
+pyaudio
+emoji
